@@ -1,0 +1,50 @@
+.camera {
+    position: absolute;
+    left: 150px;
+    height: 400px;
+}
+.frente {
+    position: absolute;
+    height: 100px;
+    left: 900px;
+    top: 0px;
+}
+.panico {
+    position: absolute;
+    height: 100px;
+    left: 900px;
+    top: 150px;
+}
+.esquerda {
+    position: absolute;
+    height: 100px;
+    left: 700px;
+    top: 150px;
+}
+.direita {
+    position: absolute;
+    height: 100px;
+    left: 1100px;
+    top: 150px;
+
+}
+.re {
+    position: absolute;
+    height: 100px;
+    left: 900px;
+    top: 300px;
+}
+.lpd {
+    position: absolute;
+    height: 100px;
+    top: 450px;
+    left: 300px;
+
+}
+.lpl {
+    position: absolute;
+    height: 100px;
+    top: 450px;
+    left: 400px;
+
+}
